@@ -1,0 +1,24 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <ignoredBuildNumbers>
+      <item value="133.1882" />
+      <item value="181.5540.11" />
+      <item value="181.5281.31" />
+      <item value="181.5087.27" />
+      <item value="182.4323.44" />
+      <item value="182.4129.32" />
+      <item value="182.3911.37" />
+      <item value="182.3684.70" />
+      <item value="182.4505.50" />
+      <item value="182.4892.25" />
+      <item value="182.5107.19" />
+      <item value="181.5540.36" />
+      <item value="183.4284.130" />
+      <item value="182.5107.43" />
+      <item value="183.4886.41" />
+    </ignoredBuildNumbers>
+    <option name="LAST_BUILD_CHECKED" value="WS-191.7479.14" />
+    <option name="LAST_TIME_CHECKED" value="1562663385843" />
+    <option name="THIRD_PARTY_PLUGINS_ALLOWED" value="true" />
+  </component>
+</application>
