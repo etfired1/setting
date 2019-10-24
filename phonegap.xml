@@ -1,0 +1,5 @@
+<application>
+  <component name="PhoneGapSettings">
+    <option name="executablePath" value="E:\system\nodejs\ionic.cmd" />
+  </component>
+</application>
