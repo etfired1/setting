@@ -1,5 +1,12 @@
 <code_scheme name="Default" version="173">
+  <TypeScriptCodeStyleSettings version="0">
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+    <option name="FORCE_QUOTE_STYlE" value="true" />
+  </TypeScriptCodeStyleSettings>
   <editorconfig>
     <option name="ENABLED" value="false" />
   </editorconfig>
+  <codeStyleSettings language="TypeScript">
+    <option name="SPACE_BEFORE_IF_PARENTHESES" value="false" />
+  </codeStyleSettings>
 </code_scheme>
